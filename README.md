@@ -13,8 +13,8 @@ _Freelance food delivery platform for university students_
 🔹 [Live Demo](https://foodlancerapp.com)
 
 ## 📊 GitHub Stats
-![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=michaeldimimu&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaeldimimu&layout=compact&theme=tokyonight)
 
 ---
 
