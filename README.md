@@ -12,10 +12,6 @@ _Freelance food delivery platform for university students_
 🔹 Features real-time ordering, student delivery network  
 🔹 [Live Demo](https://foodlancerapp.com)
 
-## 📊 GitHub Stats
-![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=michaeldimimu&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaeldimimu&layout=compact&theme=tokyonight)
-
 ---
 
 ## ✨ A little more about me
