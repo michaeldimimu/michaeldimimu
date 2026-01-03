@@ -6,7 +6,7 @@ I’m a **Frontend Engineer** exploring product psychology and systems design.
 
 ## 🌟 Featured Projects
 
-### 📦 [FoodLancer](https://github.com/your-username/foodlancer)  
+### 📦 [FoodLancer](https://github.com/michaeldimimu/foodlancer-user-platform)  
 _Freelance food delivery platform for university students_  
 🔹 Built with Next.js + MongoDB
 🔹 Features real-time ordering, student delivery network  
